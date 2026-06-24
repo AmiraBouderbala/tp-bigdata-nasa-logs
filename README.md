@@ -94,4 +94,3 @@ tp-bigdata/
 ## Notes
 - The NASA dataset file (168 MB) is excluded from this repository. Download it from Kaggle and place it in the `data/` folder.
 - The Kafka topic must be created manually before starting Spark.
-- Data dates from August 1995 — set Kibana time range to `1995-08-01` → `1995-09-01` to visualize it.
