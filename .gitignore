@@ -1,0 +1,17 @@
+# Dataset trop lourd pour GitHub
+data/
+
+# Checkpoints Spark
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Docker volumes
+.docker/
+
+# Windows
+Thumbs.db
+desktop.ini
